@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dominika Rycerz @dominikarycerz
+- 🌱 I was a lawyer but currently I'm learning JavaScript to become a Frontend Developer
+- 💞️ I’m looking to collaborate on any project that requires knowledge of HTML, CSS, JavaScript
+- 📫 You can contact me at: dominikarycerz@hotmail.com
