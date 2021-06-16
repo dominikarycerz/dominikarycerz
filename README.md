@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dominika Rycerz</h1>
-<h3 align="center">A passionate junior frontend developer from Warsaw, POLAND</h3>
+<h1 align="center">Hello 👋, I'm Dominika Rycerz</h1>
+<h3 align="center">a passionate, hard-working, self-taught developer</h3>
+
 
 - 🌱 I’m currently learning **Node.js**
 
