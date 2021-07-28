@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Dominika Rycerz</h1>
-<h3 align="center">a passionate, hard-working, self-taught developer</h3>
+<h3 align="center">a passionate, hard-working, aspiring front-end developer</h3>
 
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Express.js**
 
 - 📫 How to reach me **dominikarycerz@hotmail.com**
 
