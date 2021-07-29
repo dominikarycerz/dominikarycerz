@@ -2,7 +2,7 @@
 <h3 align="center">a passionate, hard-working, aspiring front-end developer</h3>
 
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **dominikarycerz@hotmail.com**
 
