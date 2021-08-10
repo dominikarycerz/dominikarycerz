@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **dominikarycerz@hotmail.com**
 
-- ⚡ Fun fact **For several years I worked as a lawyer, but I always used every opportunity to get closer to programming.**
+- ⚡ Fun fact **For several years I worked as a lawyer.**
 
 
 <h3 align="left">Languages and Tools:</h3>
